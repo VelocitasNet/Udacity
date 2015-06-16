@@ -1,0 +1,50 @@
+body {
+    font-family: 'Lato', sans-serif;
+    color: #118888;
+    font-weight: 300;
+}
+hr {
+border: 5px solid #000000;
+}
+.images {
+    
+    display: inline-block;
+    text-align: center;
+}
+.text-muted {
+        display: block;
+        font-size: 2em;
+        font-family: 'Montserrat', sans-serif;
+	color: #000000;
+        font-weight: 200;
+}
+.text-thin {
+	  font-weight: 100;
+}
+
+.title-super {
+	font-size: 35px;
+}
+
+.title-logo {
+	margin-top: 20px;
+}
+
+h4 {
+	display: block;
+        font-size: 2em;
+        font-family: 'Montserrat', sans-serif;
+	color: #BBBBBB;
+        font-weight: 200;
+}
+h1 {
+	display: block;
+        font-size: 2em;
+        font-family: 'Ubuntu', sans-serif;
+	color: #BBBBBB;
+        font-weight: 200;
+
+  }
+menu {
+  width: 40%;
+}
